@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$model" "1" 
+	"$basetexture" "models\airmodel\ze_deadcore\cyan"
+	"$nocull" "1"
+	"$selfillum" "1"
+}
