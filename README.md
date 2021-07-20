@@ -8,6 +8,8 @@ Thanks 1x dot for CC
 Install raw file as game_dir/materials/correction/
 
 Warning: client must have these raw file in their csgo/materials/correction/ folder (add these file to download table)
+# Version: 1.2
+- Add erro# and knightmare v2 sync with s7f2
 # Version: 1.1
 Minor fixes:
 Add D win trigger
